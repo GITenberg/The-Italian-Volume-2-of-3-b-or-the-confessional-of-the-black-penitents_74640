@@ -1,0 +1,36 @@
+_repo: The-Italian-Volume-2-of-3-b-or-the-confessional-of-the-black-penitents_74640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Radcliffe, Ann Ward
+    aliases:
+    - Radcliffe, Mrs.
+    - Ratcliffe, Mrs.
+    - Rattcliffe, Anne
+    - Radcliffe, Anne
+    birthdate: 1764
+    deathdate: 1823
+    gutenberg_agent_id: '1147'
+    url: http://www.gutenberg.org/2009/agents/1147
+    wikipedia: https://en.wikipedia.org/wiki/Ann_Radcliffe
+description: ''
+gutenberg_issued: '2024-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74640'
+language: en
+pgterms:marc904: https://archive.org/details/italianorconfes00radcgoog/page/n8,https://archive.org/details/italianorconfes02radcgoog/page/n8,https://books.google.co.uk/books?id=cBkGAAAAQAAJ&ie=ISO-8859-1&redir_esc=y
+pgterms:marc905: 20190327111857radcliffe
+pgterms:marc906: '1797'
+pgterms:marc907: GB
+production_note: Delphine Lettau and the online Distributed Proofreaders Canada team
+  at pgdpcanada.net from images generously made available by Internet Archive/European
+  Libraries
+publication_note: '  $aUnited Kingdom :$bT. Cadell and W. Davies, $c1797.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Italian, Volume 2 (of 3) : $b or, the confessional of the black penitents'
+url: http://www.gutenberg.org/ebooks/74640
